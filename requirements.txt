@@ -1,0 +1,6 @@
+fastai
+fastbook
+pandas
+numpy
+matplotlib
+sklearn
